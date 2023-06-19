@@ -11,7 +11,7 @@
     "jsnext:main": "src/index.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/eploko/pegjs-loader"
+        "url": "https://github.com/evgenii-ilin-t1/pegjs-loader"
     },
     "keywords": [
         "webpack",
@@ -21,15 +21,14 @@
         "loader"
     ],
     "bugs": {
-        "url": "https://github.com/eploko/pegjs-loader/issues"
+        "url": "https://github.com/evgenii-ilin-t1/pegjs-loader/issues"
     },
-    "homepage": "http://eploko.github.io/pegjs-loader",
     "peerDependencies": {
         "pegjs": "^0.10.0",
         "webpack": ">=1"
     },
     "dependencies": {
-        "loader-utils": "^0.2.5"
+        "loader-utils": "^1.4.2"
     },
     "devDependencies": {
         "babel": "^5.5.8",
